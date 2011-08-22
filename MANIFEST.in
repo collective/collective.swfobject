@@ -1,4 +1,4 @@
 include README.rst
 include docs/*.txt
-recursive-include collective *.rst *.css *.js *.pdf *.png *.po *.pot *.pt *.txt *.xml *.zcml
+recursive-include collective *.rst *.css *.js *.pdf *.png *.po *.pot *.pt *.txt *.xml *.zcml *.swf
 global-exclude *.pyc *~ *.mo
