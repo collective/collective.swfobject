@@ -24,17 +24,17 @@ standard for embedding Adobe Flash Player content
 Why should you use SWFObject?
 -----------------------------
 
-* Is more optimized and flexible than any other Flash Player embed method around
+- Is more optimized and flexible than any other Flash Player embed method around
 
-* Offers one solution for everybody: It shouldn't matter if you are an HTML,
+- Offers one solution for everybody: It shouldn't matter if you are an HTML,
 Flash, or JavaScript developer, there should be something in it for everyone
 
-* Breaks the cycle of being locked into vendor specific markup and promotes
+- Breaks the cycle of being locked into vendor specific markup and promotes
 the use of web standards and alternative content
 
-* Uses unobtrusive JavaScript and JavaScript best practices
+- Uses unobtrusive JavaScript and JavaScript best practices
 
-* Is easy to use
+- Is easy to use
 
 Why should I use this add-on
 ============================
