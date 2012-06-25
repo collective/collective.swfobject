@@ -1,6 +1,9 @@
-SWFObject
-=========
+Introduction
+============
 
+This addon register swfobject into Plone's resources registry.
+
+version: 2.2
 sources: http://code.google.com/p/swfobject/wiki/documentation
 
 What is SWFObject?
@@ -24,13 +27,15 @@ Why should you use SWFObject?
 * Is more optimized and flexible than any other Flash Player embed method around
 * Offers one solution for everybody: It shouldn't matter if you are an HTML,
 Flash, or JavaScript developer, there should be something in it for everyone
+
 * Breaks the cycle of being locked into vendor specific markup and promotes
 the use of web standards and alternative content
+
 * Uses unobtrusive JavaScript and JavaScript best practices
 * Is easy to use
 
 Why should I use this add-on
-===========================
+============================
 
 I guess if you read this it is because you already want to use swfobject.
 
@@ -45,4 +50,4 @@ List of add-ons using swfobject
 * collective.cu3er
 * quintagroup.portlet.cumulus
 * collective.dewplayer
-
+* collective.js.nomensamediaplayer
